@@ -1,0 +1,17 @@
+[
+  {
+    "FirstName": "Joacim",
+    "LastName": "Edlund",
+    "Email": "jocke@mail.com",
+    "PhoneNumber": "0703364416",
+    "Address": {
+      "StreetName": "Aspnäsvägen",
+      "StreetNumber": "38",
+      "City": "Stockholm",
+      "PostalCode": "17737",
+      "FullAddress": "Aspnäsvägen 38, 17737 Stockholm"
+    },
+    "PassWord": null,
+    "FullInfo": "Joacim Edlund 0703364416 <jocke@mail.com>"
+  }
+]
